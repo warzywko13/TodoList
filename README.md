@@ -1,6 +1,6 @@
 # Opis
 
-Aplikacja TodoList. Pozwala na zorganizowanie swojej dziennej pracy. 
+Aplikacja To do List. Pozwala na zorganizowanie swojej dziennej pracy.
 
 ## Użyte technologie
 
