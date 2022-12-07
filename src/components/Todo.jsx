@@ -59,7 +59,7 @@ const Todo = () => {
 
   return (
     <div className="container max-w-lg mx-auto">
-      <h1 className="text-center text-4xl font-bold mt-4">Todo List</h1>
+      <h1 className="text-center text-4xl font-bold mt-4">To do List</h1>
       <TodoForm addListItem={addListItem} />
       <TodoList
         list={list}
